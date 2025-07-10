@@ -5,4 +5,4 @@
 - Добавлена возможность производить списания
 - Исправлен баг с некорректным перерасчётом прибыли при полном удалении начислений
 ###
-Для предложений: <a href="http://example.com" target="_blank">https://anit.bitrix24.ru/online/kananka</a> или kp@799000.ru
+Для предложений: <a href="http://anit.bitrix24.ru/online/kananka" target="_blank">anit.bitrix24.ru/online/kananka</a> или kp@799000.ru
